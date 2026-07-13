@@ -1,6 +1,8 @@
 [
   {
     "listing": "/journal.html",
-    "items": []
+    "items": [
+      "/entries/cifar10-image-classifier/index.html"
+    ]
   }
 ]
